@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".ui.ReminderActivity"
+    android:padding="15dp">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/set_daily_reminder"
+    android:textSize="18sp"
+    android:padding="15dp"
+    android:textColor="@color/purple_700"
+    />
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:switchMinWidth="56dp"
+        android:layout_marginStart="50dp"
+
+        android:checked="true"
+        android:textOff="@string/off"
+        android:textOn="@string/on"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+</LinearLayout>

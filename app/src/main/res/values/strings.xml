@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="NamaUser">Nama User</string>
+    <string name="company">company</string>
+    <string name="nama_profile">nama_profile</string>
+    <string name="followers">Followers</string>
+    <string name="repositories">Repositories</string>
+    <string name="following">Following</string>
+    <string name="location">location</string>
+    <string name="work">work</string>
+    <string name="name">name</string>
+    <string name="todo">TODO</string>
+    <string name="search">search</string>
+    <string name="search_hint">Masukan Nama disini</string>
+
+
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type">type</string>
+    <string name="id">ID</string>
+    <string name="ic_company">ic_company</string>
+    <string name="ic_location">ic_location</string>
+    <string name="favorite">favorite</string>
+    <string name="settings">settings</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="reminder_msg">find popular user on Github now!</string>
+    <string name="set_daily_reminder">Set Daily Reminder</string>
+
+
+</resources>
